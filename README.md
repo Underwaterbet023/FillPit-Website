@@ -22,7 +22,7 @@
 ---
 
 ## 📁 Project Structure
-**FillPit/**
+### FillPit/
 
 - index.html **[ Main landing page ]**
 - style.css  **[ CSS styling ]**
