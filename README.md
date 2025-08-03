@@ -5,7 +5,7 @@
 
 ## 🌐 Live Demo
 
-> [ 👩‍💻 Live Demo of my website](https://underwaterbet023.github.io/FillPit-Website/)  
+> [ 🚧 Live Demo of my website](https://underwaterbet023.github.io/FillPit-Website/)  
 
 ---
 
